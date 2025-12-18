@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+    <jcms:site:seotitle/>
+
+  <!-- Fevicon -->
+  <jcms:site:fevicon/>
+    <link rel="stylesheet" href="css/plugins.css" />
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+    <!-- Progress scroll totop -->
+    
+
+     <!-- Navbar -->
+    <jcms:module:header/>
+    <jcms:module:sub-package-detail/>
+
+    
+
+    <!-- Page Details -->
+    
+
+    <!-- Gallery Image -->
+     
+     <jcms:module:sub-package-d/>
+   <!-- Footer -->
+    <jcms:module:footer/>
+    <!-- Modal -->
+  
+    <!-- jQuery -->
+    <script src="js/jquery-3.7.1.min.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+    <script src="js/jquery-migrate-3.4.1.min.js"></script>
+    <script src="js/modernizr-2.6.2.min.js"></script>
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <script src="js/jquery.isotope.v3.0.2.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/scrollIt.min.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.stellar.min.js"></script>
+    <script src="js/jquery.magnific-popup.js"></script>
+    <script src="js/YouTubePopUp.js"></script>
+    <script src="js/select2.js"></script>
+    <script src="js/datepicker.js"></script>
+    <script src="js/custom.js"></script>
+       <script src='https://www.google.com/recaptcha/api.js' async defer></script>
+     <script type="text/javascript">
+            // var base_url = $('base').attr('url');
+            $(document).ready(function () {
+                $('#contactform').validate({
+                    errorElement: 'span',
+                    errorClass: 'validate-has-error',
+                    rules: {
+                        name: {required: true},
+                        phone: {required: true},
+                        event_name: {required: true},
+                        event_date: {required: true},
+                        pax: {required: true},
+                        email: {required: true, email: true},
+                        message: {required: true}
+                    },
+                    messages: {
+                        name: {required: "Please enter your Name."},
+                        phone: {required: "Please enter your Phone Number."},
+                        event_name: {required: "Please enter your events name."},
+                        event_date: {required: "Select event date."},
+                        pax: {required: "Please enter total no of pax."},
+                        email: {required: "Please enter your Email Address."},
+                        message: {required: "Please enter your Message."}
+                    },
+                    submitHandler: function (form) {
+                        var recaptcha = $("#g-recaptcha-response").val();
+                    if (recaptcha === "") {
+                        event.preventDefault();
+                        alert("Please check the recaptcha");
+                        return false;
+                    }
+                        var Frmval = $("form#contactform").serialize();
+                        $("button#submit").attr("disabled", "true").text('Processing...');
+                        $.ajax({
+                            type: "POST",
+                            dataType: "JSON",
+                            url: "enquery_mail.php",
+                            data: "action=forHall&" + Frmval,
+                            success: function (data) {
+                                var msg = eval(data);
+                                $("button#submit").removeAttr("disabled").text('Submit');
+                                $('div#result_msg').html(msg.message).css('display', 'block').fadeOut(8000);
+                                $("form#contactform")[0].reset();
+                            }
+                        });
+                        return false;
+                    }
+                })
+            });
+            </script>
+           <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const eventDateInput = document.getElementById("event_date");
+
+    if (eventDateInput) {
+        // Get today's date in the format 'YYYY-MM-DD'
+        const today = new Date();
+        const formattedToday = today.toISOString().split('T')[0];
+
+        // Set the 'min' attribute to today's date
+        eventDateInput.setAttribute("min", formattedToday);
+    }
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<jcms:site:seotitle/>
+
+  <!-- Fevicon -->
+  <jcms:site:fevicon/>
+    <link rel="stylesheet" href="css/plugins.css" />
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+ <jcms:module:header/>
+    <!-- Slider -->
+    <jcms:module:homeslider/>
+
+    <!-- Booking Search -->
+    <div class="booking-wrapper">
+        <div class="container">
+            <div class="booking-inner clearfix">
+                <form action="#" class="form1 clearfix" target="_blank">
+                    <input type="hidden" name="hotel_code" value="H8eLjm5">
+                    <div class="col1 c1">
+                        <div class="input1_wrapper border-l border-b border-t border-r br-5005">
+                            <label>Check in</label>
+                            <div class="input1_inner">
+                                <input type="text" class="form-control input " id="checkin" placeholder="Check in">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col1 c2">
+                        <div class="input1_wrapper border-l border-b border-t border-r">
+                            <label>Check out</label>
+                            <div class="input1_inner">
+                                <input type="text" class="form-control input " id="checkout" placeholder="Check out">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col3 c6">
+                        <button type="submit" class="btn-form1-submit">Check Availability</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- About -->
+     <section class="about section-padding">
+        <jcms:module:home-article/>
+    </section>
+         
+    
+
+    <!-- Rooms 1 -->
+      <jcms:module:list-room-detail/>
+
+    <!-- Facilities -->
+    <jcms:module:facility-service-home/>
+
+    <!-- Amenities -->
+    <jcms:module:facility-list-home/>
+    
+
+    <!-- Testiominals -->
+    <jcms:module:testimonial-title/>
+    
+    <!-- Nearby -->
+      <jcms:module:inner-nearby-detail/>
+    
+
+    <!-- Footer -->
+     <jcms:module:footer/>
+     
+    <!-- jQuery -->
+    <script src="js/jquery-3.7.1.min.js"></script>
+    <script src="js/jquery-migrate-3.4.1.min.js"></script>
+    <script src="js/modernizr-2.6.2.min.js"></script>
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <script src="js/jquery.isotope.v3.0.2.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/scrollIt.min.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.stellar.min.js"></script>
+    <script src="js/jquery.magnific-popup.js"></script>
+    <script src="js/YouTubePopUp.js"></script>
+    <script src="js/select2.js"></script>
+    <script src="js/datepicker.js"></script>
+    <script src="js/custom.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        // Get today's date
+        var today = new Date();
+        var tomorrow = new Date();
+        tomorrow.setDate(today.getDate() + 1);
+
+        // Initialize check-in datepicker
+        $("#checkin").datepicker({
+            dateFormat: 'yy-mm-dd',
+            minDate: today,
+            onSelect: function (dateText) {
+                var selectedDate = new Date(dateText);
+                var nextDay = new Date(selectedDate);
+                nextDay.setDate(selectedDate.getDate() + 1);
+
+                // Update checkout datepicker
+                $("#checkout").datepicker("option", "minDate", nextDay);
+                $("#checkout").datepicker("setDate", nextDay);
+            }
+        }).datepicker("setDate", today);
+
+        // Initialize check-out datepicker
+        $("#checkout").datepicker({
+            dateFormat: 'yy-mm-dd',
+            minDate: tomorrow
+        }).datepicker("setDate", tomorrow);
+
+        $(".change-map").on("click", function(e){
+            e.preventDefault();
+            const map=$(this).data("map");
+            $("#map-frame").attr("src",map);
+        })
+        // Tab switching (similar style to your map switcher)
+$(".tab-buttons").on("click", function (e) {
+    e.preventDefault();
+
+    // Remove active from all tabs
+    $(".tab-btn").removeClass("active-btn");
+
+    // Activate the clicked tab
+    $(this).addClass("active-btn");
+
+    // Get tab ID from data-tab attribute
+    const tabId = $(this).data("tab");
+
+    // Hide all tab content
+    $(".tab").removeClass("active-tab");
+
+    // Show the selected tab
+    $(tabId).addClass("active-tab");
+});
+
+    });
+</script>
+</body>
+</html>

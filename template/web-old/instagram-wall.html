@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<head>
+    <jcms:site:seotitle/>
+    <jcms:site:fevicon/>
+    <!--START CSS-->
+    <jcms:frontCss/>
+    <link rel="stylesheet" href="template/web/css/popup.css">
+    <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700%7cDroid+Serif:400,700,400italic,700italic%7cYellowtail%7cGreat+Vibes' rel='stylesheet' type='text/css'>
+    <!-- ENDCSS -->
+     <!-- JS Includes -->
+    <!-- Essential JS files ( DO NOT REMOVE THEM ) -->
+    <jcms:forntJs/> 
+    <script>
+        $(function() {
+          
+        //******************** Place changing *********************////
+        replace('.article_title', '.replace');
+        //***************** end Place changing *********************//
+          });
+    </script>
+
+    <style>
+        #more {display: none;}
+    </style>
+</head>
+
+<body>
+    <header class="main-wrapper header">
+        <!-- HEADER-->
+        <div class="top_red_background d-none">
+            <div class="container"> 
+                <jcms:module:socilaLinkhead/>
+            </div>
+        </div> 
+        <div class="container-fluid">
+            <div class="main-header-top-container">
+            <!-- Site Logo -->
+                <div id="top-logo">
+                    <jcms:site:logo/>
+                </div>
+            </div>
+            <!-- END OF HEADER -->
+            <div class="main-menu">
+                <!-- Menu Section -->
+                <jcms:module:menu/>
+                <nav class=" hidden-md hidden-lg navbar navbar-inverse navbar-fixed-top">
+                    <div class="container">
+                        <div class="navbar-header ">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="#"></a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Work SECTION -->
+    <div class="article-banner">
+        <div class="innerTop_banner">
+            
+            <!--<div class="breadcrumbs" ><!-- style="float:right;" -->-->
+            <!--    <jcms:module:breadcrumb/>-->
+            <!--</div>-->
+        </div>
+    </div>
+
+    <section class="instagram__section margin_top_bottom our_work">
+        <div class="container">
+            <div class="replace"><div class="rep">Instagram Wall</div></div>
+            
+                <jcms:module:instagram-feed/>
+           
+           
+           <div class="row">
+               <div class="col-md-12">
+                   <div class="more-btn text-center">
+                <a href="javascript:void(0)" id="insta-toggle-btn" class="hm-btn">Load More</a>
+            </div>
+               </div>
+           </div>
+            
+        </div>
+    </section>
+    <!-- END OF WORK SECTION -->
+
+    <jcms:module:footer-new/>
+
+<script>
+$(document).ready(function () {
+    const instaItems = $('.insta__listing .insta__item');
+    const initialCount = 8;
+    const increment = 4;
+    let visibleCount = initialCount;
+    const totalCount = instaItems.length;
+
+    // Hide all initially
+    instaItems.hide();
+    // Show initial items
+    instaItems.slice(0, visibleCount).show();
+
+    // Hide button if less than initial
+    if (totalCount <= initialCount) {
+        $('#insta-toggle-btn').hide();
+    }
+
+    $('#insta-toggle-btn').click(function () {
+        if (visibleCount >= totalCount) {
+            // Collapse to initial
+            instaItems.slice(initialCount).slideUp();
+            visibleCount = initialCount;
+            $(this).text('Load More');
+        } else {
+            // Show next few
+            const nextVisible = Math.min(visibleCount + increment, totalCount);
+            instaItems.slice(visibleCount, nextVisible).slideDown();
+            visibleCount = nextVisible;
+
+            if (visibleCount >= totalCount) {
+                $(this).text('Load Less');
+            }
+        }
+    });
+});
+</script>
+</body>
+</html>

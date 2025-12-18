@@ -1,0 +1,72 @@
+div.ui-widget-header.ui-datepicker-header {
+/*background:unset !important;*/
+/*border:none !important;*/
+}
+td, th{padding:10px;
+border: none !important;
+text-align:left;font-size:15px; color:#979797;}
+
+.ui-datepicker th {
+    font-weight: 400 !important;
+    color: #616060 !important;
+    background: #ffffff; !important;
+}
+.ui-datepicker select.ui-datepicker-month, .ui-datepicker select.ui-datepicker-year {
+    border: none !important;
+    background: unset !important;
+}
+.ui-datepicker {
+width: 24em !important;
+box-shadow: 4px 8px 11px 5px rgba(0,0,0,0.24);
+-webkit-box-shadow: 4px 8px 11px 5px rgba(0,0,0,0.24);
+-moz-box-shadow: 4px 8px 11px 5px rgba(0,0,0,0.24);
+padding: 0.7em 0.8em 0.9em;
+}
+.ui-datepicker td {
+    border: 0;
+    padding: 9px !important;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+color: #a5a5a5 !important;
+}
+#ui-datepicker-div{
+padding: 1.9rem 2.2rem 1.6rem 1.8rem !important;
+}
+
+.ui-datepicker .ui-datepicker-title{
+    color:#fff;
+}
+.ui-datepicker .ui-datepicker-title select {
+    font-size: 1.4em !important;
+}
+.ui-datepicker table {
+  margin: 11px 0 .4em !important;
+}
+span.ui-state-default, a.ui-state-default{
+background:unset !important;
+border: none !important;
+}
+a.ui-state-default.ui-state-active{
+    background:#fffa90 !important;
+}
+
+
+@media (min-width:922px){
+ .ui-datepicker td span, .ui-datepicker td a {
+display: flex !important;
+align-items: center;
+justify-content: center;
+height: 100%;
+        }
+        div.ui-datepicker {
+            height:29em;
+}
+}
+@media only screen and (max-width: 760px), (min-device-width: 768px) and (max-device-width: 1024px) {
+    table.ui-datepicker-calendar, table.ui-datepicker-calendar thead, table.ui-datepicker-calendar tbody, table.ui-datepicker-calendar th, table.ui-datepicker-calendar td, table.ui-datepicker-calendar tr {
+        display: revert !important;
+    }
+    table.ui-datepicker-calendar tr {
+      border:none !important;
+    }
+}

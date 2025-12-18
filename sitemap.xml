@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+    <loc>https://www.manakamanahillcrest.com/</loc>
+    <lastmod>2025-11-18T03:07:21+05:45</lastmod>
+    <priority>1</priority>
+</url>
+
+        <url>
+            <loc>https://www.manakamanahillcrest.com/home</loc>
+            <lastmod>2025-11-18T03:07:21+05:45</lastmod>
+            <priority>0.9</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/contact-us</loc>
+            <lastmod>2025-11-18T03:07:21+05:45</lastmod>
+            <priority>0.9</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/facilities-list</loc>
+            <lastmod>2025-11-18T03:07:21+05:45</lastmod>
+            <priority>0.9</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/gallery-list</loc>
+            <lastmod>2025-11-18T03:07:21+05:45</lastmod>
+            <priority>0.9</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/health-fitness-policies</loc>
+            <lastmod>2025-11-14T14:58:04+05:45</lastmod>
+            <priority>0.75</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/pool-sauna-policies</loc>
+            <lastmod>2025-11-16T12:41:19+05:45</lastmod>
+            <priority>0.75</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/about-us</loc>
+            <lastmod>2025-11-16T15:06:35+05:45</lastmod>
+            <priority>0.75</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/manakamana-hillcrest-resort</loc>
+            <lastmod>2025-11-13T12:43:07+05:45</lastmod>
+            <priority>0.75</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/events-hall</loc>
+            <lastmod>2025-11-17T17:33:52+05:45</lastmod>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/restaurant</loc>
+            <lastmod>2025-10-07T15:19:38+05:45</lastmod>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/rooms-suites</loc>
+            <lastmod>2025-11-14T12:17:28+05:45</lastmod>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/activities</loc>
+            <lastmod>2025-10-09T13:17:24+05:45</lastmod>
+            <priority>0.8</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/gorkha-hall</loc>
+            <lastmod>2025-11-17T11:34:41+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/spiritual-religious</loc>
+            <lastmod>2025-10-31T13:18:12+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/durbar-hall</loc>
+            <lastmod>2025-11-17T11:33:46+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/scenic-adventure</loc>
+            <lastmod>2025-10-31T13:18:02+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/board-meeting-hall</loc>
+            <lastmod>2025-11-16T17:22:01+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/deluxe-single-room</loc>
+            <lastmod>2025-11-16T15:48:32+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/cultural-market</loc>
+            <lastmod>2025-10-31T13:18:20+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/deluxe-twin-room</loc>
+            <lastmod>2025-11-16T15:48:21+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/deluxe-family-room</loc>
+            <lastmod>2025-11-16T15:48:59+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/interconnected-family-suite</loc>
+            <lastmod>2025-11-16T15:49:18+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    
+        <url>
+            <loc>https://www.manakamanahillcrest.com/basera-restaurant</loc>
+            <lastmod>2025-11-16T16:20:39+05:45</lastmod>
+            <priority>0.85</priority>
+        </url>
+    </urlset>

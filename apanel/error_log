@@ -1,0 +1,695 @@
+[28-Oct-2025 12:03:27 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 12:03:27 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 12:03:27 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 12:03:27 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 12:03:27 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 12:03:27 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 12:09:25 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 12:09:25 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 12:09:25 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 12:09:25 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 12:09:25 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 12:09:25 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 13:58:30 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[28-Oct-2025 13:58:30 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[28-Oct-2025 13:58:30 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[28-Oct-2025 13:58:34 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[28-Oct-2025 13:58:34 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[28-Oct-2025 13:58:34 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[28-Oct-2025 13:59:14 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[28-Oct-2025 13:59:14 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[28-Oct-2025 13:59:14 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[28-Oct-2025 13:59:38 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[28-Oct-2025 13:59:38 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[28-Oct-2025 13:59:38 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[28-Oct-2025 15:33:49 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[28-Oct-2025 15:33:49 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[28-Oct-2025 15:33:49 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[28-Oct-2025 15:34:34 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[28-Oct-2025 15:34:34 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[28-Oct-2025 15:34:34 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[28-Oct-2025 15:37:09 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[28-Oct-2025 15:37:09 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[28-Oct-2025 15:37:09 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[28-Oct-2025 15:37:27 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[28-Oct-2025 15:37:27 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[28-Oct-2025 15:37:27 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[28-Oct-2025 16:11:56 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:11:56 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:11:56 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:11:56 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:11:56 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:11:56 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:12:13 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:12:13 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:12:13 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:12:13 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:12:13 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:12:13 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:12:48 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:12:48 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:12:48 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:12:48 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:12:48 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:12:48 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:13:19 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:13:19 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:13:19 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:13:19 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:13:19 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:13:19 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:13:40 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:13:40 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:13:40 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:13:40 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:13:40 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[28-Oct-2025 16:13:40 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[29-Oct-2025 11:41:07 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[29-Oct-2025 11:41:07 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[29-Oct-2025 11:41:07 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[29-Oct-2025 11:41:23 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[29-Oct-2025 11:41:23 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[29-Oct-2025 11:41:23 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[29-Oct-2025 11:41:31 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[29-Oct-2025 11:41:31 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[29-Oct-2025 11:41:31 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[29-Oct-2025 11:41:39 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[29-Oct-2025 11:41:39 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[29-Oct-2025 11:41:39 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[29-Oct-2025 11:41:52 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[29-Oct-2025 11:41:52 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[29-Oct-2025 11:41:52 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[29-Oct-2025 11:42:03 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[29-Oct-2025 11:42:03 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[29-Oct-2025 11:42:03 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[29-Oct-2025 11:42:23 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[29-Oct-2025 11:42:23 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[29-Oct-2025 11:42:23 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Undefined variable: advInfo in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[29-Oct-2025 12:58:57 Asia/Kathmandu] PHP Notice:  Trying to get property 'discount' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/offers/offers.php on line 376
+[30-Oct-2025 15:00:27 Asia/Kathmandu] PHP Notice:  Undefined index: oimgwidth in /home/theanfac/mayurstay.com/manakamanahillcrest/project/includes/modals/class.module.php on line 93
+[30-Oct-2025 15:00:27 Asia/Kathmandu] PHP Notice:  Undefined index: subbimgheight in /home/theanfac/mayurstay.com/manakamanahillcrest/project/includes/modals/class.module.php on line 93
+[30-Oct-2025 15:01:58 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 15:01:58 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 15:01:58 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 15:01:58 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 15:01:58 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 15:01:58 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 15:02:17 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 15:02:17 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 15:02:17 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 15:02:17 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 15:02:17 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 15:02:17 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 15:33:36 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[30-Oct-2025 15:33:36 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[30-Oct-2025 15:33:36 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[30-Oct-2025 15:35:14 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[30-Oct-2025 15:35:14 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[30-Oct-2025 15:35:14 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[30-Oct-2025 15:35:49 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[30-Oct-2025 15:35:49 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[30-Oct-2025 15:35:49 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[30-Oct-2025 15:36:57 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[30-Oct-2025 15:36:57 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[30-Oct-2025 15:36:57 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[30-Oct-2025 15:38:14 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[30-Oct-2025 15:38:14 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[30-Oct-2025 15:38:14 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[30-Oct-2025 15:39:52 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[30-Oct-2025 15:39:52 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[30-Oct-2025 15:39:52 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[30-Oct-2025 17:21:02 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 17:21:02 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 17:21:02 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 17:21:02 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 17:21:02 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[30-Oct-2025 17:21:02 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/menu/menu.php on line 151
+[31-Oct-2025 11:34:22 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 11:34:22 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 11:34:22 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 11:36:53 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 11:36:53 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 11:36:53 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 11:37:13 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 11:37:13 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 11:37:13 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 11:38:29 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 11:38:29 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 11:38:29 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 11:38:59 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 11:38:59 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 11:38:59 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 11:39:09 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 11:39:09 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 11:39:09 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 11:39:19 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 11:39:19 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 11:39:19 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 11:39:35 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 11:39:35 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 11:39:35 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 11:41:14 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 11:41:14 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 11:41:14 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 11:44:05 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 11:44:05 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 11:44:05 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 11:45:25 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 11:45:25 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 11:45:25 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 11:46:57 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 11:46:57 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 11:46:57 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 11:48:11 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 11:48:11 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 11:48:11 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 12:18:07 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 12:18:07 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 12:18:07 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 12:26:53 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 12:26:53 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 12:26:53 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 12:27:10 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 12:27:10 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 12:27:10 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 12:27:28 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 12:27:28 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 12:27:28 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 12:27:32 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 12:27:32 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 12:27:32 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 12:28:38 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 12:28:38 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 12:28:38 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 12:33:19 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 12:33:19 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 12:33:19 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 12:33:30 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 12:33:30 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 12:33:30 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 12:51:46 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 12:51:46 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 12:51:46 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 12:52:02 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 12:52:02 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 12:52:02 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 12:53:22 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 12:53:22 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 12:53:22 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 12:54:49 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 12:54:49 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 12:54:49 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 12:57:13 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 12:57:13 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 12:57:13 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 12:57:41 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 12:57:41 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 12:57:41 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 12:59:07 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 12:59:07 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 12:59:07 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 12:59:40 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 12:59:40 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 12:59:40 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:02:07 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:02:07 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:02:07 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:04:00 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:04:00 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:04:00 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:04:20 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:04:20 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:04:20 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:04:44 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:04:44 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:04:44 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:05:06 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:05:06 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:05:06 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:05:26 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:05:26 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:05:26 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:05:49 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:05:49 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:05:49 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:06:22 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:06:22 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:06:22 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:06:59 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:06:59 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:06:59 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:07:58 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:07:58 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:07:58 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:11:06 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:11:06 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:11:06 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:11:48 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:11:48 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:11:48 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:12:03 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:12:03 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:12:03 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:12:17 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:12:35 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:12:35 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:12:35 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:12:50 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:12:50 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:12:50 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:13:18 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:13:18 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:13:18 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:13:31 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:13:31 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:13:31 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:21:45 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:21:45 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:21:45 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:22:16 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:22:16 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:22:16 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:23:01 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:23:01 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:23:01 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:23:17 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:23:17 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:23:17 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:23:50 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:23:50 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:23:50 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:35:47 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:35:47 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:35:47 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:35:59 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:35:59 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:35:59 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:36:09 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:36:09 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:36:09 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:36:17 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:36:17 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:36:17 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:36:25 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:36:25 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:36:25 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:36:29 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:36:29 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:36:29 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:36:32 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[31-Oct-2025 13:36:32 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[31-Oct-2025 13:36:32 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[31-Oct-2025 13:40:38 Asia/Kathmandu] PHP Notice:  Undefined index: oimgwidth in /home/theanfac/mayurstay.com/manakamanahillcrest/project/includes/modals/class.module.php on line 93
+[31-Oct-2025 13:40:38 Asia/Kathmandu] PHP Notice:  Undefined index: subbimgheight in /home/theanfac/mayurstay.com/manakamanahillcrest/project/includes/modals/class.module.php on line 93
+[13-Nov-2025 14:55:24 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[13-Nov-2025 14:55:24 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[13-Nov-2025 14:55:24 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[13-Nov-2025 14:57:20 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[13-Nov-2025 14:57:20 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[13-Nov-2025 14:57:20 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[13-Nov-2025 15:03:09 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[13-Nov-2025 15:03:09 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[13-Nov-2025 15:03:09 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[13-Nov-2025 15:03:22 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[13-Nov-2025 15:03:22 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[13-Nov-2025 15:03:22 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[13-Nov-2025 15:03:40 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[13-Nov-2025 15:03:40 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[13-Nov-2025 15:03:40 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[13-Nov-2025 15:08:00 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[13-Nov-2025 15:08:00 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[13-Nov-2025 15:08:00 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 11:09:43 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 11:09:43 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 11:09:43 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 11:50:27 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 11:50:27 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 11:50:27 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:12:52 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:12:52 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:12:52 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:20:25 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:20:25 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:20:25 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:20:34 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:20:34 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:20:34 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:20:46 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:20:46 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:20:46 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:20:55 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:20:55 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:20:55 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:37:02 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:37:02 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:37:02 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:42:19 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:42:19 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:42:19 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:47:53 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:47:53 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:47:53 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:49:48 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:49:48 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:49:48 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:50:18 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:50:18 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:50:18 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:51:19 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:51:19 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:51:19 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:52:01 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:52:01 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:52:01 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:52:14 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:52:14 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:52:14 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:52:41 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:52:41 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:52:41 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:53:50 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:53:50 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:53:50 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:54:00 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:54:00 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:54:00 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:54:11 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:54:11 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:54:11 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:57:29 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:57:29 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:57:29 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:58:01 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:58:01 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:58:01 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:58:19 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:58:19 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:58:19 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:58:46 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:58:46 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:58:46 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 12:59:02 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 12:59:02 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 12:59:02 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 13:00:46 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 13:00:46 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 13:00:46 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[14-Nov-2025 13:00:59 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[14-Nov-2025 13:00:59 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[14-Nov-2025 13:00:59 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 11:31:46 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 11:31:46 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 11:31:46 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 11:32:50 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 11:32:50 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 11:32:50 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 11:33:08 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 11:33:08 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 11:33:08 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 11:33:32 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 11:33:32 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 11:33:32 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 11:33:41 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 11:33:41 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 11:33:41 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 13:15:40 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 13:15:40 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 13:15:40 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 13:21:04 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 13:21:04 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 13:21:04 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 13:21:30 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 13:21:30 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 13:21:30 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 13:22:14 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 13:22:14 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 13:22:14 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 13:22:56 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 13:22:56 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 13:22:56 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 13:24:36 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 13:24:36 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 13:24:36 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 13:25:20 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 13:25:20 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 13:25:20 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 13:26:24 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 13:26:24 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 13:26:24 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 13:26:37 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 13:26:37 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 13:26:37 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 13:28:09 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 13:28:09 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 13:28:09 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 13:28:53 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 13:28:53 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 13:28:53 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 13:37:45 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 13:37:45 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 13:37:45 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 13:38:06 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 13:38:06 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 13:38:06 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 13:38:18 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 13:38:18 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 13:38:18 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 13:38:33 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 13:38:33 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 13:38:33 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 13:38:54 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 578
+[16-Nov-2025 13:38:54 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 581
+[16-Nov-2025 13:38:54 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/theanfac/mayurstay.com/manakamanahillcrest/project/apanel/package/sub_package.php on line 584
+[16-Nov-2025 15:43:26 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 578
+[16-Nov-2025 15:43:26 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 581
+[16-Nov-2025 15:43:26 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 584
+[16-Nov-2025 15:46:08 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 578
+[16-Nov-2025 15:46:08 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 581
+[16-Nov-2025 15:46:08 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 584
+[16-Nov-2025 15:48:02 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 578
+[16-Nov-2025 15:48:02 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 581
+[16-Nov-2025 15:48:02 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 584
+[16-Nov-2025 15:48:24 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 578
+[16-Nov-2025 15:48:24 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 581
+[16-Nov-2025 15:48:24 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 584
+[16-Nov-2025 15:48:45 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 578
+[16-Nov-2025 15:48:45 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 581
+[16-Nov-2025 15:48:45 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 584
+[16-Nov-2025 15:49:02 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 578
+[16-Nov-2025 15:49:02 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 581
+[16-Nov-2025 15:49:02 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 584
+[16-Nov-2025 16:47:31 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 578
+[16-Nov-2025 16:47:31 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 581
+[16-Nov-2025 16:47:31 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 584
+[16-Nov-2025 16:47:41 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 578
+[16-Nov-2025 16:47:41 Asia/Kathmandu] PHP Notice:  Undefined variable: feature_of_room in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 581
+[16-Nov-2025 16:47:41 Asia/Kathmandu] PHP Notice:  Undefined variable: none_selected in /home/acehotel/manakamanahillcrest.com/apanel/package/sub_package.php on line 584
+[16-Nov-2025 17:12:01 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/acehotel/manakamanahillcrest.com/apanel/menu/menu.php on line 151
+[16-Nov-2025 17:12:01 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/acehotel/manakamanahillcrest.com/apanel/menu/menu.php on line 151
+[16-Nov-2025 17:12:01 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/acehotel/manakamanahillcrest.com/apanel/menu/menu.php on line 151
+[16-Nov-2025 17:12:01 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/acehotel/manakamanahillcrest.com/apanel/menu/menu.php on line 151
+[16-Nov-2025 17:12:01 Asia/Kathmandu] PHP Notice:  Undefined variable: menu in /home/acehotel/manakamanahillcrest.com/apanel/menu/menu.php on line 151
+[16-Nov-2025 17:12:01 Asia/Kathmandu] PHP Notice:  Trying to get property 'type' of non-object in /home/acehotel/manakamanahillcrest.com/apanel/menu/menu.php on line 151

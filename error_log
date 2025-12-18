@@ -1,0 +1,38 @@
+[28-Oct-2025 15:34:54 Asia/Kathmandu] PHP Notice:  Trying to get property 'id' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.package.php on line 546
+[28-Oct-2025 16:21:23 Asia/Kathmandu] PHP Notice:  Trying to get property 'banner_image' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 130
+[28-Oct-2025 16:21:23 Asia/Kathmandu] PHP Notice:  Trying to get property 'title' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 134
+[28-Oct-2025 16:21:23 Asia/Kathmandu] PHP Notice:  Trying to get property 'title' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 136
+[28-Oct-2025 16:21:23 Asia/Kathmandu] PHP Notice:  Trying to get property 'blog_date' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 137
+[28-Oct-2025 16:21:23 Asia/Kathmandu] PHP Notice:  Trying to get property 'image' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 152
+[28-Oct-2025 16:21:23 Asia/Kathmandu] PHP Notice:  Trying to get property 'title' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 155
+[28-Oct-2025 16:21:23 Asia/Kathmandu] PHP Notice:  Trying to get property 'content' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 167
+[28-Oct-2025 16:21:23 Asia/Kathmandu] PHP Notice:  Trying to get property 'title' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 186
+[28-Oct-2025 16:21:23 Asia/Kathmandu] PHP Notice:  Trying to get property 'title' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 186
+[28-Oct-2025 16:21:23 Asia/Kathmandu] PHP Notice:  Trying to get property 'title' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 211
+[28-Oct-2025 16:21:26 Asia/Kathmandu] PHP Notice:  Trying to get property 'banner_image' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 130
+[28-Oct-2025 16:21:26 Asia/Kathmandu] PHP Notice:  Trying to get property 'title' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 134
+[28-Oct-2025 16:21:26 Asia/Kathmandu] PHP Notice:  Trying to get property 'title' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 136
+[28-Oct-2025 16:21:26 Asia/Kathmandu] PHP Notice:  Trying to get property 'blog_date' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 137
+[28-Oct-2025 16:21:26 Asia/Kathmandu] PHP Notice:  Trying to get property 'image' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 152
+[28-Oct-2025 16:21:26 Asia/Kathmandu] PHP Notice:  Trying to get property 'title' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 155
+[28-Oct-2025 16:21:26 Asia/Kathmandu] PHP Notice:  Trying to get property 'content' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 167
+[28-Oct-2025 16:21:26 Asia/Kathmandu] PHP Notice:  Trying to get property 'title' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 186
+[28-Oct-2025 16:21:26 Asia/Kathmandu] PHP Notice:  Trying to get property 'title' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 186
+[28-Oct-2025 16:21:26 Asia/Kathmandu] PHP Notice:  Trying to get property 'title' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.blog.php on line 211
+[29-Oct-2025 13:49:42 Asia/Kathmandu] PHP Notice:  Trying to get property 'list_image' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/includes/meta_tags.php on line 432
+[29-Oct-2025 13:49:42 Asia/Kathmandu] PHP Notice:  Trying to get property 'list_image' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/includes/meta_tags.php on line 433
+[29-Oct-2025 13:49:47 Asia/Kathmandu] PHP Notice:  Trying to get property 'list_image' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/includes/meta_tags.php on line 432
+[29-Oct-2025 13:49:47 Asia/Kathmandu] PHP Notice:  Trying to get property 'list_image' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/includes/meta_tags.php on line 433
+[29-Oct-2025 13:49:49 Asia/Kathmandu] PHP Notice:  Trying to get property 'list_image' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/includes/meta_tags.php on line 432
+[29-Oct-2025 13:49:49 Asia/Kathmandu] PHP Notice:  Trying to get property 'list_image' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/includes/meta_tags.php on line 433
+[31-Oct-2025 12:34:24 Asia/Kathmandu] PHP Notice:  Undefined variable: feattitle in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.package.php on line 643
+[12-Nov-2025 17:08:58 Asia/Kathmandu] PHP Warning:  Invalid argument supplied for foreach() in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.services.php on line 116
+[12-Nov-2025 17:08:58 Asia/Kathmandu] PHP Warning:  Invalid argument supplied for foreach() in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.services.php on line 231
+[12-Nov-2025 17:09:02 Asia/Kathmandu] PHP Warning:  Invalid argument supplied for foreach() in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.services.php on line 116
+[12-Nov-2025 17:09:02 Asia/Kathmandu] PHP Warning:  Invalid argument supplied for foreach() in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.services.php on line 231
+[12-Nov-2025 17:09:09 Asia/Kathmandu] PHP Warning:  Invalid argument supplied for foreach() in /home/theanfac/mayurstay.com/manakamanahillcrest/project/views/module.services.php on line 116
+[14-Nov-2025 17:16:36 Asia/Kathmandu] PHP Notice:  Undefined variable: blogtitle in /home/theanfac/mayurstay.com/manakamanahillcrest/project/enquery_mail.php on line 288
+[16-Nov-2025 11:58:31 Asia/Kathmandu] PHP Notice:  Trying to get property 'list_image' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/includes/meta_tags.php on line 432
+[16-Nov-2025 11:58:31 Asia/Kathmandu] PHP Notice:  Trying to get property 'list_image' of non-object in /home/theanfac/mayurstay.com/manakamanahillcrest/project/includes/meta_tags.php on line 433
+[17-Nov-2025 11:08:09 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/acehotel/manakamanahillcrest.com/includes/database.php on line 23
+[17-Nov-2025 11:08:09 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/acehotel/manakamanahillcrest.com/includes/database.php on line 25
