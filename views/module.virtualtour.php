@@ -5,7 +5,7 @@ $vt_bread = $vt_details = $subScript = '';
 //VIRTUAL TOUR ID FOR USING SPECIFIC; TO CREATE NEW VIRTUAL TOUR [VT]
 //$vid = 4;
 
-$imglink = BASE_URL . 'template/web/images/default.jpg';
+ $imglink = BASE_URL . 'template/web/img/banner/09.jpg';
 // default image from Preference Mgmt
 if (!empty($siteRegulars->other_upload)) {
     if (file_exists(SITE_ROOT . "images/preference/other/" . $siteRegulars->other_upload)) {
@@ -14,7 +14,8 @@ if (!empty($siteRegulars->other_upload)) {
 }
 
 $vt_bread .= '
- <div class="banner-header section-padding valign bg-darkbrown1" data-overlay-dark="4" data-background="'.$imglink.'">
+ <div class="banner-header section-padding valign bg-darkbrown1" data-overlay-dark="4"
+     style="background-image:url('.$imglink.'); background-size:cover; background-position:center;">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center caption mt-90">
@@ -24,7 +25,6 @@ $vt_bread .= '
         </div>
     </div>
 ';
-
 
 function generate_virtual_tour($vtId)
 {

@@ -1,5 +1,5 @@
 .idea
-
+.env
 includes/config.php
 includes/initialize.php
 template/web/images

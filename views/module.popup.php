@@ -137,14 +137,14 @@ if (!empty($popRec)) {
             if (file_exists($file_path)) {
                 $imglink = IMAGE_PATH . 'popup/' . $q;
             } else {
-                $imglink = BASE_URL . 'template/cms/images/welcome.jpg';
+                $imglink = BASE_URL . 'images/popup/3IH8F-pop.jpg';
             }
             $active = ($count == 1) ? 'active' : '';
             $linkhref = ($popr->linktype == 1) ? $popr->linksrc : BASE_URL . $popr->linksrc;
             $target = ($popr->linktype == 1) ? 'target="_blank"' : '';
             $reststpopup .= '  
                 <div class="carousel-item ' . $active . '">
-                    <a href="' . $linkhref . '" ' . $target . '><img src="' . $imglink . '" alt="' . $popr->title . '" class="img-fluid"></a>
+                    <a href="' . $linkhref . '" ' . $target . ' rel="noreferrer"><img src="' . $imglink . '" alt="' . $popr->title . '" class="img-fluid" rel="noreferrer"></a>
                 </div>
                 ';
                 // pr($imglink);

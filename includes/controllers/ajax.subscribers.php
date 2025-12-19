@@ -82,7 +82,7 @@
 			endif;
 
 			// For Mail Chimp
-			// $api = new MCAPI('819718a1f4406cea17991df58b4d2c8f-us3');
+			 $api = '';
 			$list_id = "936ee54603";
 			$getresult = $api->listSubscribe($list_id, $mail, '');
 			

@@ -85,17 +85,26 @@ if (defined('PACKAGE_PAGE') and isset($_REQUEST['slug'])) {
 
             <div class="wrap mt-n4">
                 <div class="cont">
-                    <div class="price">' . $subpkgRow->currency .$subpkgRow->onep_price .  ' 
+                   '.(!empty($subpkgRow->onep_price) ? '
+                    <div class="price">' . $subpkgRow->currency . $subpkgRow->onep_price . '
                         <span>/ night</span>
                     </div>
+                    ' : '').'
+
 
                     <h3>
                         <a href="' . BASE_URL . $subpkgRow->slug . '">' . $subpkgRow->title . '</a>
                     </h3>
 
                     <div class="details">
+
+                       '.(!empty($subpkgRow->occupancy) ? '
                         <span><i class="fa-thin fa-user"></i> ' . $subpkgRow->occupancy . '</span>
+                        ' : '').'
+                        
+                       '.(!empty($subpkgRow->room_size) ? '
                         <span><i class="fa-thin fa-expand"></i> ' . $subpkgRow->room_size . '</span>
+                        ' : '').'
                     </div>
                 </div>
 
@@ -455,13 +464,19 @@ if (defined('HOME_PAGE')) {
 
     <div class="wrap">
         <div class="cont">
+         '.(!empty($subpkgRow->currency . $subpkgRow->onep_price) ? '
             <div class="price">' . $subpkgRow->currency . $subpkgRow->onep_price . ' <span>/ night</span></div>
-
+            ' : '').'
             <h3><a href="' . BASE_URL . $subpkgRow->slug . '">' . $subpkgRow->title . '</a></h3>
 
              <div class="details">
+                        '.(!empty($subpkgRow->occupancy) ? '
                         <span><i class="fa-thin fa-user"></i> ' . $subpkgRow->occupancy . '</span>
+                        ' : '').'
+                        
+                       '.(!empty($subpkgRow->room_size) ? '
                         <span><i class="fa-thin fa-expand"></i> ' . $subpkgRow->room_size . '</span>
+                        ' : '').'
                     </div>
         </div>
 
