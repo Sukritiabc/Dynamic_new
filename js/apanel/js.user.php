@@ -90,6 +90,7 @@ function recordDelete(Re){
 	$(".botTempo").on("click",function(){						
 		var popAct=$(this).attr("id");						
 		if(popAct=='yes'){
+			console.log(queryString);
 			$.ajax({
 			   type: "POST",
 			   dataType:"JSON",
@@ -133,19 +134,47 @@ function permission(Re)
 	window.location.href="<?php echo ADMIN_URL?>user/permission/"+Re;
 }
 
- document.getElementById('field_type').addEventListener('change', function () {
-        const groupId = parseInt(this.value);
-        const emailSections = document.querySelectorAll('.email-section');
+document.addEventListener('DOMContentLoaded', function() {
+    const fieldType = document.getElementById('field_type');
 
-        emailSections.forEach(section => {
-            if (groupId === 2) { // Superadmin
-                section.style.display = 'flex';
-            } else {
-                section.style.display = 'none';
-            }
+    if (fieldType) {  // only attach if the element exists
+        fieldType.addEventListener('change', function () {
+            const groupId = parseInt(this.value);
+            const emailSections = document.querySelectorAll('.email-section');
+
+            emailSections.forEach(section => {
+                if (groupId === 2) { // Superadmin
+                    section.style.display = 'flex';
+                } else {
+                    section.style.display = 'none';
+                }
+            });
         });
+    }
+});
+
+
+	$(document).ready(function () {
+
+    function toggleEmailField() {
+        var groupId = $('#field_type').val();
+
+        if (groupId == 1) {
+            $('.email-section').slideDown();
+        } else {
+            $('.email-section').slideUp();
+        }
+    }
+
+    // Run after Chosen initialization
+    $('#field_type').chosen().change(function () {
+        toggleEmailField();
     });
 
+    // Run once on page load
+    toggleEmailField();
+
+});
 /***************************************** AddEdit login Info *******************************************/
 $(document).ready(function(){		
 	// form submisstion actions		
@@ -160,6 +189,7 @@ $(document).ready(function(){
 				var action = ($('#idValue').val() == 0) ? "action=addNewUser&" : "action=editNewUser&" ;
 				var data = $('#adminusersetting_frm').serialize();
 				queryString = action+data;
+				console.log(queryString);
 				$.ajax({
 				   type: "POST",
 				   dataType:"JSON",
@@ -205,6 +235,7 @@ $(document).ready(function(){
 				var action = "action=userPermission&";
 				var data = $('#permission_frm').serialize();
 				queryString = action+data;
+				console.log(queryString);
 				$.ajax({
 				   type: "POST",
 				   dataType:"JSON",
@@ -240,6 +271,7 @@ $(document).ready(function(){
 	});
 });
 
+
 jQuery(document).on('click', 'a.check-all', function() {
 	jQuery('input.mcheck').prop("checked", true);
 });
@@ -257,4 +289,5 @@ jQuery(document).on('click', 'input.parent', function() {
 		jQuery('input.child-'+_val).prop('checked', false);
 	}
 });
+
 </script>

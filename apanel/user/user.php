@@ -9,7 +9,7 @@ if (isset($_GET['page']) && $_GET['page'] == "user" && isset($_GET['mode']) && $
     <h3>
         List Users
         <?php $uid= $session->get('u_id');
-    if($uid==2){ ?>
+    if($uid==2 || $uid==1){ ?>
         <a class="loadingbar-demo btn medium bg-blue-alt float-right" href="javascript:void(0);"
            onClick="AddNewUsers();">
     <span class="glyph-icon icon-separator">
@@ -52,9 +52,20 @@ if (isset($_GET['page']) && $_GET['page'] == "user" && isset($_GET['mode']) && $
                         <td class="text-center"><?php echo $record->sortorder; ?></td>
                         <td>
                             <div class="col-md-7">
-                                <a href="javascript:void(0);" onClick="editRecord(<?php echo $record->id; ?>);"
-                                   class="loadingbar-demo"
-                                   title="<?php echo $record->first_name . ' ' . $record->middle_name . ' ' . $record->last_name; ?>"><?php echo $record->first_name . ' ' . $record->middle_name . ' ' . $record->last_name; ?></a>
+                                <?php if ($uid == 2 || $uid == 1 ||$uid == $record->id): ?>
+                                    <a href="javascript:void(0);"
+                                    onclick="editRecord(<?php echo $record->id; ?>);"
+                                    class="loadingbar-demo"
+                                    title="<?php echo $record->first_name . ' ' . $record->middle_name . ' ' . $record->last_name; ?>">
+                                        <?php echo $record->first_name . ' ' . $record->middle_name . ' ' . $record->last_name; ?>
+                                    </a>
+                                <?php else: ?>
+                                    <span class="text-muted"
+                                        title="<?php echo $record->first_name . ' ' . $record->middle_name . ' ' . $record->last_name; ?>">
+                                        <?php echo $record->first_name . ' ' . $record->middle_name . ' ' . $record->last_name; ?>
+                                    </span>
+                                <?php endif; ?>
+
                             </div>
                         </td>
                         <td><?php echo $record->username; ?></td>
@@ -84,10 +95,13 @@ if (isset($_GET['page']) && $_GET['page'] == "user" && isset($_GET['mode']) && $
                                 <i class="glyph-icon icon-gear"></i>
                             </a> -->
                             <?php }?>
-                            <a href="javascript:void(0);" class="loadingbar-demo btn small bg-blue-alt tooltip-button"
-                               data-placement="top" title="Edit" onclick="editRecord(<?php echo $record->id; ?>);">
-                                <i class="glyph-icon icon-edit"></i>
-                            </a>
+                            <?php if ($uid == 2 || $uid == $record->id) : ?>
+                                <a href="javascript:void(0);" class="loadingbar-demo btn small bg-blue-alt tooltip-button"
+                                data-placement="top" title="Edit" onclick="editRecord(<?php echo $record->id; ?>);">
+                                    <i class="glyph-icon icon-edit"></i>
+                                </a>
+                            <?php endif; ?>
+
                            <?php if ($uid == 2 && $record->id != 2): ?>
                                 <a href="javascript:void(0);" class="btn small bg-red tooltip-button"
                                    data-placement="top" title="Remove"
@@ -136,27 +150,40 @@ if (isset($_GET['page']) && $_GET['page'] == "user" && isset($_GET['mode']) && $
     <div class="my-msg"></div>
     <div class="example-box">
         <div class="example-code">
-            <form action="" class="col-md-10 center-margin" id="adminusersetting_frm">
+           <form method="post" action="" id="adminusersetting_frm">
+            <input type="hidden" name="action"
+                 value="<?php echo !empty($userId) ? 'editNewUser' : 'addNewUser'; ?>">
             <?php if ($uid== 1){ ?>
                 <div class="form-row">
                     <div class="form-label col-md-2">
                         <label for="">
                             Group Type :
                         </label>
-                    </div>
-                    <div class="form-input col-md-4" style="padding:0px !important;">
-                        <select data-placeholder="Choose Field Type"
-                                class="chosen-select validate[required,length[0,500]]" id="field_type"
-                                name="field_type">
-                            <option value="">Choose</option>
-                            <?php $GroupTypeRec = Usergrouptype::find_all();
-                            if ($GroupTypeRec): foreach ($GroupTypeRec as $GroupTypeRow):
-                                $sel = (!empty($usersInfo->group_id) && $usersInfo->group_id == $GroupTypeRow->id) ? 'selected' : '';
+                        </div>
+                        <div class="form-input col-md-4" style="padding:0px !important;">
+                            <select data-placeholder="Choose Field Type"
+                                    class="chosen-select validate[required,length[0,500]]" id="field_type"
+                                    name="field_type">
+                                <option value="">Choose</option>
+                                <?php 
+                                $GroupTypeRec = Usergrouptype::find_all();
+                                if ($GroupTypeRec): 
+                                    foreach ($GroupTypeRec as $GroupTypeRow):
+                                        // Skip group ID 1
+                                        if ($GroupTypeRow->id == 1) continue;
+
+                                        $sel = (!empty($usersInfo->group_id) && $usersInfo->group_id == $GroupTypeRow->id) ? 'selected' : '';
                                 ?>
-                                <option value="<?php echo $GroupTypeRow->id; ?>" <?php echo $sel; ?>><?php echo $GroupTypeRow->group_name; ?></option>
-                            <?php endforeach; endif; ?>
-                        </select>
-                    </div>
+                                        <option value="<?php echo $GroupTypeRow->id; ?>" <?php echo $sel; ?>>
+                                            <?php echo $GroupTypeRow->group_name; ?>
+                                        </option>
+                                <?php 
+                                    endforeach; 
+                                endif; 
+                                ?>
+                            </select>
+                        </div>
+
                 </div>
                 <?php } else{?>
                     <input type="hidden" name="field_type" value="<?php echo $usersInfo->group_id;?> "/>
@@ -233,6 +260,8 @@ if (isset($_GET['page']) && $_GET['page'] == "user" && isset($_GET['mode']) && $
                                id="passwordConfirm">
                     </div>
                 </div>
+           
+                <?php if (!empty($usersInfo) && ($usersInfo->id == 1 || $usersInfo->id == 2)): ?>
                 <div class="form-row">
                     <div class="form-label col-md-2">
                         <label for="">
@@ -241,10 +270,13 @@ if (isset($_GET['page']) && $_GET['page'] == "user" && isset($_GET['mode']) && $
                     </div>
                     <div class="form-input col-md-20">
                         <input placeholder="Email Address" class="col-md-4 validate[required,custom[email]]" type="text"
-                               id="email" name="email"
-                               value="<?php echo !empty($usersInfo->email) ? $usersInfo->email : ""; ?>">
+                            id="email" name="email"
+                            value="<?php echo !empty($usersInfo->email) ? $usersInfo->email : ""; ?>">
                     </div>
                 </div>
+                <?php endif; ?>
+          
+
                 <?php if (!empty($usersInfo) && ($usersInfo->group_id!= 1)){ ?>
                 <div class="form-row hide">
                     <div class="form-label col-md-2">

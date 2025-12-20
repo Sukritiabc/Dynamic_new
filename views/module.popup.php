@@ -167,7 +167,9 @@ if (!empty($popRec)) {
             <div class="modal-dialog '.$orientation. '">
                 <div class="modal-content popup_overlay popup_content">
                     <div class="modal-header">
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
                     </div>
                     <div class="modal-body">
 					<!--CAROUSEL CODE GOES HERE-->

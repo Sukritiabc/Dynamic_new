@@ -8,7 +8,7 @@
 	// Load necessary files then...
 	require_once('../initialize.php');
 	
-	$action = $_REQUEST['action'];
+	$action = $_REQUEST['action'] ?? '';
 	
 	switch($action) 
 	{
@@ -18,7 +18,8 @@
 			$record->first_name 	= $_REQUEST['first_name'];
 			$record->middle_name	= $_REQUEST['middle_name'];
 			$record->last_name		= $_REQUEST['last_name'];				
-			$record->email			= $_REQUEST['email'];
+		$record->email = !empty($_REQUEST['email']) ? $_REQUEST['email'] : null;
+
 			$record->optional_email = $_REQUEST['optional_email'];
 			$record->hall_email = $_REQUEST['hall_email'];
 			$record->hr_email = $_REQUEST['hr_email'];
@@ -50,7 +51,8 @@
 			$record->first_name 	= $_REQUEST['first_name'];
 			$record->middle_name	= $_REQUEST['middle_name'];
 			$record->last_name		= $_REQUEST['last_name'];
-			$record->email			= $_REQUEST['email'];
+			$record->email = !empty($_REQUEST['email']) ? $_REQUEST['email'] : null;
+
 			$record->optional_email = $_REQUEST['optional_email'];
 			$record->hall_email = $_REQUEST['hall_email'];
 			$record->hr_email = $_REQUEST['hr_email'];
