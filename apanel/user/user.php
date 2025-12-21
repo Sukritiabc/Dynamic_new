@@ -95,14 +95,15 @@ if (isset($_GET['page']) && $_GET['page'] == "user" && isset($_GET['mode']) && $
                                 <i class="glyph-icon icon-gear"></i>
                             </a> -->
                             <?php }?>
-                            <?php if ($uid == 2 || $uid == $record->id) : ?>
+                            <?php if ($uid == 2 || $uid == 1 || $uid == $record->id) : ?>
                                 <a href="javascript:void(0);" class="loadingbar-demo btn small bg-blue-alt tooltip-button"
                                 data-placement="top" title="Edit" onclick="editRecord(<?php echo $record->id; ?>);">
                                     <i class="glyph-icon icon-edit"></i>
                                 </a>
                             <?php endif; ?>
 
-                           <?php if ($uid == 2 && $record->id != 2): ?>
+                          <?php if (($uid == 1 || $uid == 2) && $record->id != 2 && $record->id != 1): ?>
+
                                 <a href="javascript:void(0);" class="btn small bg-red tooltip-button"
                                    data-placement="top" title="Remove"
                                    onclick="recordDelete(<?php echo $record->id; ?>);">

@@ -156,6 +156,23 @@ class Usergrouptype extends DatabaseObject
         $db->query($sql);
         return ($db->affected_rows() == 1) ? true : false;
     }
-}
+    public static function checkDupliUname($group_name, $exclude_id = null)
+    {
+        global $db;
 
+        $group_name = $db->escape_value($group_name);
+
+        $sql = "SELECT id FROM " . self::$table_name . " 
+                WHERE group_name = '{$group_name}'";
+
+        // Optional: exclude current record (for edit/update)
+        if (!empty($exclude_id)) {
+            $sql .= " AND id != " . (int)$exclude_id;
+        }
+
+        $result = $db->query($sql);
+        return ($db->num_rows($result) > 0);
+    }
+}
+   
 ?>

@@ -55,12 +55,26 @@ class User extends DatabaseObject
         $result_array = self::find_by_sql("SELECT `id`,`email`,`first_name`,`middle_name`,`last_name` FROM " . self::$table_name . " WHERE `email`='" . $email . "' LIMIT 1");
         return !empty($result_array) ? array_shift($result_array) : false;
     }
+    public static function find_by_user($UserName = "")
+    {
+        global $db;
+        $result_array = self::find_by_sql("SELECT `id`,`first_name`,`middle_name`,`last_name` FROM " . self::$table_name . " WHERE `username`='" . $UserName . "' LIMIT 1");
+        return !empty($result_array) ? array_shift($result_array) : false;
+    }
 
     // get valid email address for new password generate (forget password)
     public static function get_validMember_mail($email = "")
     {
         global $db;
         $query = " SELECT `email` FROM " . self::$table_name . " WHERE `email`='" . $email . "' ";
+        $record = $db->query($query);
+        $result = $db->num_rows($record);
+        return $result;
+    }
+      public static function get_username($UserName = "")
+    {
+        global $db;
+        $query = " SELECT `username` FROM " . self::$table_name . " WHERE `username`='" . $UserName . "' ";
         $record = $db->query($query);
         $result = $db->num_rows($record);
         return $result;

@@ -7,6 +7,7 @@ if (isset($_GET['page']) && $_GET['page'] == "usergroup" && isset($_GET['mode'])
     ?>
     <h3>
         List User Groups
+     
         <a class="loadingbar-demo btn btn-primary btn-sm medium bg-blue-alt float-right" href="javascript:void(0);" onClick="addNewGroup();">
             <span class="glyph-icon icon-separator"><i class="glyph-icon icon-plus-square"></i></span>
             <span class="button-content"> Add User Group </span>
@@ -49,10 +50,13 @@ if (isset($_GET['page']) && $_GET['page'] == "usergroup" && isset($_GET['mode'])
                                title="Edit" onclick="editRecord(<?php echo $record->id; ?>);">
                                 <i class="glyph-icon icon-edit"></i>
                             </a>
-                            <!--<a href="javascript:void(0);" class="btn small bg-red tooltip-button" data-placement="top" title="Remove"
+                                 <?php $uid= $session->get('u_id');
+                                 if (($uid == 1 || $uid == 2) && $record->id != 2 && $record->id != 1): ?>
+                            <a href="javascript:void(0);" class="btn small bg-red tooltip-button" data-placement="top" title="Remove"
                                onclick="recordDelete(<?php echo $record->id; ?>);">
                                 <i class="glyph-icon icon-remove"></i>
-                            </a>-->
+                            </a>
+                             <?php endif; ?>
                         </td>
                     </tr>
                 <?php endforeach; ?>
