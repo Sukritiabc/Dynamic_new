@@ -19,7 +19,7 @@ if($_POST['action']=="forContact"):
 	  <tr>
 		<td><p><span style="color:#0065B3; font-size:14px; font-weight:bold">Comment message</span><br />
 		  The details provided are:</p>
-		  <p><strong>Fullname</strong> : '.$fullname.'<br />		
+		  <p><strong>Fullname</strong> : '.$name.'<br />		
 		  <strong>E-mail Address</strong>: '.$email.'<br />
 		  <strong>Contact</strong>: '.$phone.'<br />
 		  <strong>Address</strong>: '.$address.'<br />
@@ -30,7 +30,7 @@ if($_POST['action']=="forContact"):
 	  <tr>
 		<td><p>&nbsp;</p>
 		<p>Thank you,<br />
-		'.$fullname.'
+		'.$name.'
 		</p></td>
 	  </tr>
 	</table>
@@ -42,8 +42,8 @@ if($_POST['action']=="forContact"):
 
 	$mail = new PHPMailer(); // defaults to using php "mail()"
 	
-	$mail->SetFrom($email, $fullname);
-	$mail->AddReplyTo($email,$fullname);
+	$mail->SetFrom($email, $name);
+	$mail->AddReplyTo($email,$name);
 	
 	$mail->AddAddress($usermail, $sitename);
 	// if add extra email address on back end
@@ -56,7 +56,7 @@ if($_POST['action']=="forContact"):
 		}
 	}
 	
-	$mail->Subject    = 'Enquiry mail from '.$fullname;
+	$mail->Subject    = 'Enquiry mail from '.$name;
 	
 	$mail->MsgHTML($body);
 	
@@ -87,7 +87,7 @@ if ($_POST['action'] == "forHall"):
                       <strong>Pax</strong> : ' . $pax . '<br />		
                       <strong>Schedule</strong> : ' . $schedule . '<br />		
 
-                      <strong>Name</strong> : ' . $fullname . '<br />		
+                      <strong>Name</strong> : ' . $name . '<br />		
                       <strong>E-mail Address</strong>: ' . $email . '<br />
                       <strong>Phone</strong>: ' . $phone . '<br />
                       <strong>Address</strong>: ' . $Address . '<br />
@@ -98,7 +98,7 @@ if ($_POST['action'] == "forHall"):
           <tr>
               <td>
                   <p>Thank you,<br />
-                  ' . $fullname . '
+                  ' . $name . '
                   </p>
               </td>
           </tr>
@@ -106,8 +106,8 @@ if ($_POST['action'] == "forHall"):
 ';
 
   $mail = new PHPMailer();
-  $mail->SetFrom($email, $fullname);
-  $mail->AddReplyTo($email, $fullname);
+  $mail->SetFrom($email, $name);
+  $mail->AddReplyTo($email, $name);
   $mail->AddAddress($usermail, $sitename);
   if (!empty($ccusermail)) {
       $rec = explode(';', $ccusermail);
@@ -118,7 +118,7 @@ if ($_POST['action'] == "forHall"):
       }
   }
 
-  $mail->Subject = 'Hall Inquiry mail from ' . $fullname;
+  $mail->Subject = 'Hall Inquiry mail from ' . $name;
   $mail->MsgHTML($body);
 
   if (!$mail->Send()) {
@@ -141,7 +141,7 @@ if ($_POST['action'] == "foroffer"):
                       <span style="color:#0065B3; font-size:14px; font-weight:bold">Offer Inquiry message</span><br />
                       The details provided are:
                   </p>
-                   <p><strong>Fullname</strong> : '.$fullname.'<br />		
+                   <p><strong>Fullname</strong> : '.$name.'<br />		
 		  <strong>E-mail Address</strong>: '.$email.'<br />
 		  <strong>Contact</strong>: '.$phone.'<br />
 		  <strong>Message</strong>: '.$message.'<br />
@@ -151,7 +151,7 @@ if ($_POST['action'] == "foroffer"):
           <tr>
               <td>
                   <p>Thank you,<br />
-                  ' . $fullname . '
+                  ' . $name . '
                   </p>
               </td>
           </tr>
@@ -159,8 +159,8 @@ if ($_POST['action'] == "foroffer"):
 ';
 
   $mail = new PHPMailer();
-  $mail->SetFrom($email, $fullname);
-  $mail->AddReplyTo($email, $fullname);
+  $mail->SetFrom($email, $name);
+  $mail->AddReplyTo($email, $name);
   $mail->AddAddress($usermail, $sitename);
   if (!empty($ccusermail)) {
       $rec = explode(';', $ccusermail);
@@ -171,7 +171,7 @@ if ($_POST['action'] == "foroffer"):
       }
   }
 
-  $mail->Subject = 'Offer Inquiry mail from ' . $fullname.' for '.$offertitle.'';
+  $mail->Subject = 'Offer Inquiry mail from ' . $name.' for '.$offertitle.'';
   $mail->MsgHTML($body);
 
   if (!$mail->Send()) {
@@ -203,7 +203,7 @@ if ($_POST['action'] == "foractivity"):
                    <p>
                    <strong>Activity name</strong> : '.$actname.'<br />		
                    <strong>price</strong> : '.$price.'<br />		
-                   <strong>Fullname</strong> : '.$fullname.'<br />		
+                   <strong>Fullname</strong> : '.$name.'<br />		
 		  <strong>E-mail Address</strong>: '.$email.'<br />
 		  <strong>Contact</strong>: '.$phone.'<br />
 		  <strong>Message</strong>: '.$message.'<br />
@@ -221,8 +221,8 @@ if ($_POST['action'] == "foractivity"):
 ';
 
   $mail = new PHPMailer();
-  $mail->SetFrom($email, $fullname);
-  $mail->AddReplyTo($email, $fullname);
+  $mail->SetFrom($email, $name);
+  $mail->AddReplyTo($email, $name);
   $mail->AddAddress($usermail, $sitename);
   if (!empty($ccusermail)) {
       $rec = explode(';', $ccusermail);
@@ -233,7 +233,7 @@ if ($_POST['action'] == "foractivity"):
       }
   }
 
-  $mail->Subject = 'Activity Inquiry mail from ' . $fullname .' for '.$actname .'';
+  $mail->Subject = 'Activity Inquiry mail from ' . $name .' for '.$actname .'';
   $mail->MsgHTML($body);
 
   if (!$mail->Send()) {
@@ -257,7 +257,7 @@ if ($_POST['action'] == "forblog"):
                       The details provided are:
                   </p>
                    <p>
-                   <strong>Fullname</strong> : '.$fullname.'<br />		
+                   <strong>Fullname</strong> : '.$name.'<br />		
 		  <strong>E-mail Address</strong>: '.$email.'<br />
 		  <strong>Message</strong>: '.$message.'<br />
 		  </p>
@@ -266,7 +266,7 @@ if ($_POST['action'] == "forblog"):
           <tr>
               <td>
                   <p>Thank you,<br />
-                  ' . $fullname . '
+                  ' . $name . '
                   </p>
               </td>
           </tr>
@@ -274,8 +274,8 @@ if ($_POST['action'] == "forblog"):
 ';
 
   $mail = new PHPMailer();
-  $mail->SetFrom($email, $fullname);
-  $mail->AddReplyTo($email, $fullname);
+  $mail->SetFrom($email, $name);
+  $mail->AddReplyTo($email, $name);
   $mail->AddAddress($usermail, $sitename);
   if (!empty($ccusermail)) {
       $rec = explode(';', $ccusermail);
@@ -286,7 +286,7 @@ if ($_POST['action'] == "forblog"):
       }
   }
 
-  $mail->Subject = 'Blog Comment from ' . $fullname.' for '.$blogtitle.' ';
+  $mail->Subject = 'Blog Comment from ' . $name.' for '.$blogtitle.' ';
   $mail->MsgHTML($body);
 
   if (!$mail->Send()) {

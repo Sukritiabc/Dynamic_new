@@ -151,189 +151,183 @@ if (isset($_GET['page']) && $_GET['page'] == "user" && isset($_GET['mode']) && $
     <div class="my-msg"></div>
     <div class="example-box">
         <div class="example-code">
-           <form method="post" action="" id="adminusersetting_frm">
-            <input type="hidden" name="action"
-                 value="<?php echo !empty($userId) ? 'editNewUser' : 'addNewUser'; ?>">
-            <?php if ($uid== 1){ ?>
-                <div class="form-row">
-                    <div class="form-label col-md-2">
-                        <label for="">
-                            Group Type :
-                        </label>
-                        </div>
-                        <div class="form-input col-md-4" style="padding:0px !important;">
-                            <select data-placeholder="Choose Field Type"
-                                    class="chosen-select validate[required,length[0,500]]" id="field_type"
-                                    name="field_type">
-                                <option value="">Choose</option>
-                                <?php 
-                                $GroupTypeRec = Usergrouptype::find_all();
-                                if ($GroupTypeRec): 
-                                    foreach ($GroupTypeRec as $GroupTypeRow):
-                                        // Skip group ID 1
-                                        if ($GroupTypeRow->id == 1) continue;
+          <form method="post" action="" id="adminusersetting_frm">
+            <input type="hidden" name="action" value="<?php echo !empty($userId) ? 'editNewUser' : 'addNewUser'; ?>">
+            <input type="hidden" name="idValue" id="idValue" value="<?php echo !empty($userId) ? $userId : 0; ?>"/>
 
-                                        $sel = (!empty($usersInfo->group_id) && $usersInfo->group_id == $GroupTypeRow->id) ? 'selected' : '';
-                                ?>
-                                        <option value="<?php echo $GroupTypeRow->id; ?>" <?php echo $sel; ?>>
-                                            <?php echo $GroupTypeRow->group_name; ?>
-                                        </option>
-                                <?php 
-                                    endforeach; 
-                                endif; 
-                                ?>
-                            </select>
-                        </div>
+            <?php if ($uid == 1) { ?>
+                <!-- Group Type -->
+                <div class="form-row">
+                    <div class="form-label col-md-2">
+                        <label>Group Type :</label>
+                    </div>
+                    <div class="form-input col-md-4" style="padding:0;">
+                        <select data-placeholder="Choose Field Type"
+                                class="chosen-select validate[required,length[0,500]]" id="field_type"
+                                name="field_type">
+                            <option value="">Choose</option>
+                            <?php 
+                            $GroupTypeRec = Usergrouptype::find_all();
+                            if ($GroupTypeRec): 
+                                foreach ($GroupTypeRec as $GroupTypeRow):
+                                    // Show group type 1 only if user's group is 1
+                                    if ($GroupTypeRow->id == 1 && (!isset($usersInfo->group_id) || $usersInfo->group_id != 1)) {
+                                        continue;
+                                    }
+                                    $sel = (!empty($usersInfo->group_id) && $usersInfo->group_id == $GroupTypeRow->id) ? 'selected' : '';
+                            ?>
+                                <option value="<?php echo $GroupTypeRow->id; ?>" <?php echo $sel; ?>>
+                                    <?php echo $GroupTypeRow->group_name; ?>
+                                </option>
+                            <?php 
+                                endforeach; 
+                            endif; 
+                            ?>
+                        </select>
+                    </div>
+                </div>
+            <?php } else { ?>
+                <input type="hidden" name="field_type" value="<?php echo $usersInfo->group_id; ?>"/>
+            <?php } ?>
 
+            <!-- First Name -->
+            <div class="form-row">
+                <div class="form-label col-md-2">
+                    <label>First Name :</label>
                 </div>
-                <?php } else{?>
-                    <input type="hidden" name="field_type" value="<?php echo $usersInfo->group_id;?> "/>
-                    <?php }?>
+                <div class="form-input col-md-4">
+                    <input placeholder="First Name" class="form-control validate[required,length[0,50]]" type="text"
+                        name="first_name" id="first_name"
+                        value="<?php echo !empty($usersInfo->first_name) ? $usersInfo->first_name : ""; ?>">
+                </div>
+            </div>
+
+            <!-- Middle Name -->
+            <div class="form-row">
+                <div class="form-label col-md-2">
+                    <label>Middle Name :</label>
+                </div>
+                <div class="form-input col-md-4">
+                    <input placeholder="Middle Name" class="form-control validate[length[0,50]]" type="text"
+                        name="middle_name" id="middle_name"
+                        value="<?php echo !empty($usersInfo->middle_name) ? $usersInfo->middle_name : ""; ?>">
+                </div>
+            </div>
+
+            <!-- Last Name -->
+            <div class="form-row">
+                <div class="form-label col-md-2">
+                    <label>Last Name :</label>
+                </div>
+                <div class="form-input col-md-4">
+                    <input placeholder="Last Name" class="form-control validate[length[0,50]]" type="text"
+                        name="last_name" id="last_name"
+                        value="<?php echo !empty($usersInfo->last_name) ? $usersInfo->last_name : ""; ?>">
+                </div>
+            </div>
+
+            <!-- Username -->
+            <div class="form-row">
+                <div class="form-label col-md-2">
+                    <label>Username :</label>
+                </div>
+                <div class="form-input col-md-4">
+                    <input placeholder="Username"
+                        class="form-control validate[required,maxSize[10],custom[onlyLetterNumber]]" type="text"
+                        name="username" id="username"
+                        value="<?php echo !empty($usersInfo->username) ? $usersInfo->username : ""; ?>">
+                </div>
+            </div>
+
+            <!-- Password -->
+            <div class="form-row">
+                <div class="form-label col-md-2">
+                    <label>Password :</label>
+                </div>
+                <div class="form-input col-md-4">
+                    <input placeholder="Password"
+                        class="form-control <?php echo !empty($usersInfo) ? '' : 'validate[required,length[0,50]]'; ?>"
+                        type="password" name="password" id="password">
+                </div>
+            </div>
+
+            <!-- Re-password -->
+            <div class="form-row">
+                <div class="form-label col-md-2">
+                    <label>Re-password :</label>
+                </div>
+                <div class="form-input col-md-4">
+                    <input placeholder="Re-password" class="form-control validate[equals[password]]" type="password"
+                        id="passwordConfirm">
+                </div>
+            </div>
+
+            <!-- Email (only for admin users with ID 1 or 2) -->
+            <?php if (!empty($usersInfo) && ($usersInfo->id == 1 || $usersInfo->id == 2)) { ?>
                 <div class="form-row">
                     <div class="form-label col-md-2">
-                        <label for="">
-                            First Name :
-                        </label>
+                        <label>Email :</label>
                     </div>
-                    <div class="form-input col-md-20">
-                        <input placeholder="First Name" class="col-md-4 validate[required,length[0,50]]" type="text"
-                               name="first_name" id="first_name"
-                               value="<?php echo !empty($usersInfo->first_name) ? $usersInfo->first_name : ""; ?>">
-                    </div>
-                </div>
-                <div class="form-row">
-                    <div class="form-label col-md-2">
-                        <label for="">
-                            Middle Name :
-                        </label>
-                    </div>
-                    <div class="form-input col-md-20">
-                        <input placeholder="Middle Name" class="col-md-4 validate[length[0,50]]" type="text"
-                               name="middle_name" id="middle_name"
-                               value="<?php echo !empty($usersInfo->middle_name) ? $usersInfo->middle_name : ""; ?>">
-                    </div>
-                </div>
-                <div class="form-row">
-                    <div class="form-label col-md-2">
-                        <label for="">
-                            Last Name :
-                        </label>
-                    </div>
-                    <div class="form-input col-md-20">
-                        <input placeholder="Last Name" class="col-md-4 validate[length[0,50]]" type="text"
-                               name="last_name" id="last_name"
-                               value="<?php echo !empty($usersInfo->last_name) ? $usersInfo->last_name : ""; ?>">
-                    </div>
-                </div>
-                <div class="form-row">
-                    <div class="form-label col-md-2">
-                        <label for="">
-                            Username :
-                        </label>
-                    </div>
-                    <div class="form-input col-md-20">
-                        <input placeholder="Username"
-                               class="col-md-4 validate[required,maxSize[10],custom[onlyLetterNumber]]" type="text"
-                               name="username" id="username"
-                               value="<?php echo !empty($usersInfo->username) ? $usersInfo->username : ""; ?>">
-                    </div>
-                </div>
-                <div class="form-row">
-                    <div class="form-label col-md-2">
-                        <label for="">
-                            Password :
-                        </label>
-                    </div>
-                    <div class="form-input col-md-20">
-                        <input placeholder="Password"
-                               class="col-md-4 <?php echo !empty($usersInfo) ? '' : 'validate[required,length[0,50]]'; ?>"
-                               type="password" name="password" id="password">
-                    </div>
-                </div>
-                <div class="form-row">
-                    <div class="form-label col-md-2">
-                        <label for="">
-                            Re-password :
-                        </label>
-                    </div>
-                    <div class="form-input col-md-20">
-                        <input placeholder="Re-password" class="col-md-4 validate[equals[password]]" type="password"
-                               id="passwordConfirm">
-                    </div>
-                </div>
-           
-                <?php if (!empty($usersInfo) && ($usersInfo->id == 1 || $usersInfo->id == 2)): ?>
-                <div class="form-row">
-                    <div class="form-label col-md-2">
-                        <label for="">
-                            Email :
-                        </label>
-                    </div>
-                    <div class="form-input col-md-20">
-                        <input placeholder="Email Address" class="col-md-4 validate[required,custom[email]]" type="text"
+                    <div class="form-input col-md-4">
+                        <input placeholder="Email Address" class="form-control validate[required,custom[email]]" type="text"
                             id="email" name="email"
                             value="<?php echo !empty($usersInfo->email) ? $usersInfo->email : ""; ?>">
                     </div>
                 </div>
-                <?php endif; ?>
-          
+            <?php } ?>
 
-                <?php if (!empty($usersInfo) && ($usersInfo->group_id!= 1)){ ?>
+            <!-- Hall/HR/CC Emails -->
+            <?php if (!empty($usersInfo) && ($usersInfo->group_id != 1)) { ?>
                 <div class="form-row hide">
-                    <div class="form-label col-md-2">
-                        <label for="">
-                            Hall Email :
-                        </label>
-                    </div>
-                    <div class="form-input col-md-20">
-                        <input placeholder="Hall Email Address" class="col-md-4 validate[required,custom[email]]" type="text"
-                               id="hall_email" name="hall_email"
-                               value="<?php echo !empty($usersInfo->hall_email) ? $usersInfo->hall_email : ""; ?>">
+                    <div class="form-label col-md-2"><label>Hall Email :</label></div>
+                    <div class="form-input col-md-4">
+                        <input placeholder="Hall Email Address" class="form-control validate[required,custom[email]]" type="text"
+                            id="hall_email" name="hall_email"
+                            value="<?php echo !empty($usersInfo->hall_email) ? $usersInfo->hall_email : ""; ?>">
                     </div>
                 </div>
+
                 <div class="form-row hide">
-                    <div class="form-label col-md-2">
-                        <label for="">
-                            HR Email :
-                        </label>
-                    </div>
-                    <div class="form-input col-md-20">
-                        <input placeholder="HR Email Address" class="col-md-4 validate[required,custom[email]]" type="text"
-                               id="hr_email" name="hr_email"
-                               value="<?php echo !empty($usersInfo->hr_email) ? $usersInfo->hr_email : ""; ?>">
+                    <div class="form-label col-md-2"><label>HR Email :</label></div>
+                    <div class="form-input col-md-4">
+                        <input placeholder="HR Email Address" class="form-control validate[required,custom[email]]" type="text"
+                            id="hr_email" name="hr_email"
+                            value="<?php echo !empty($usersInfo->hr_email) ? $usersInfo->hr_email : ""; ?>">
                     </div>
                 </div>
+
                 <div class="form-row">
-                    <div class="form-label col-md-2">
-                        <label for="">
-                            CC Email :
-                        </label>
-                    </div>
-                    <div class="form-input col-md-20">
-                        <input placeholder="CC Email Address" class="col-md-4" type="text" id="optional_email"
-                               name="optional_email"
-                               value="<?php echo !empty($usersInfo->optional_email) ? $usersInfo->optional_email : ""; ?>">
+                    <div class="form-label col-md-2"><label>CC Email :</label></div>
+                    <div class="form-input col-md-4">
+                        <input placeholder="CC Email Address" class="form-control" type="text" id="optional_email"
+                            name="optional_email"
+                            value="<?php echo !empty($usersInfo->optional_email) ? $usersInfo->optional_email : ""; ?>">
                         <br/>
-                        <small>if more than one email address. e.g. email1@email.com;email2@email.com</small>
+                        <small>Separate multiple emails with a semicolon: email1@example.com;email2@example.com</small>
                     </div>
                 </div>
-                <?php }else{?>
-                    <input type="hidden" name="hall_email" value="<?php echo !empty($usersInfo->hall_email) ? $usersInfo->hall_email : "";?>"/>
-                    <input type="hidden" name="hr_email" value="<?php echo !empty($usersInfo->hr_email) ? $usersInfo->hr_email : ""; ?>"/>
-                    <input type="hidden" name="optional_email" value="<?php echo !empty($usersInfo->optional_email) ? $usersInfo->optional_email: "";?>"/>
-                    <?php }?>
-                <div class="form-row">
-                    <div class="form-label col-md-2"></div>
-                    <div class="form-checkbox-radio col-md-9">
-                        <input type="radio" class="custom-radio" name="status" id="check1"
-                               value="1" <?php echo !empty($published) ? $published : "checked"; ?>>
-                        <label for="">Published</label>
-                        <input type="radio" class="custom-radio" name="status" id="check0"
-                               value="0" <?php echo !empty($unpublished) ? $unpublished : ""; ?>>
-                        <label for="">Un-published</label>
-                    </div>
-                </div>
+            <?php } else { ?>
+                <input type="hidden" name="hall_email" value="<?php echo !empty($usersInfo->hall_email) ? $usersInfo->hall_email : ""; ?>"/>
+                <input type="hidden" name="hr_email" value="<?php echo !empty($usersInfo->hr_email) ? $usersInfo->hr_email : ""; ?>"/>
+                <input type="hidden" name="optional_email" value="<?php echo !empty($usersInfo->optional_email) ? $usersInfo->optional_email : ""; ?>"/>
+            <?php } ?>
+
+            <!-- Status -->
+            <div class="form-row">
                 <div class="form-label col-md-2"></div>
+                <div class="form-checkbox-radio col-md-4">
+                    <input type="radio" class="custom-radio" name="status" id="check1"
+                        value="1" <?php echo !empty($published) ? $published : "checked"; ?>>
+                    <label for="check1">Published</label>
+
+                    <input type="radio" class="custom-radio" name="status" id="check0"
+                        value="0" <?php echo !empty($unpublished) ? $unpublished : ""; ?>>
+                    <label for="check0">Un-published</label>
+                </div>
+            </div>
+
+            <!-- Submit Button -->
+            <div class="form-label col-md-2"></div>
                 <button type="submit" name="submit"
                         class="btn large primary-bg text-transform-upr font-bold font-size-11 radius-all-4"
                         id="btn-submit" title="Save">
@@ -342,7 +336,8 @@ if (isset($_GET['page']) && $_GET['page'] == "user" && isset($_GET['mode']) && $
                 </span>
                 </button>
                 <input type="hidden" name="idValue" id="idValue" value="<?php echo !empty($userId) ? $userId : 0; ?>"/>
-            </form>
+        </form>
+
         </div>
     </div>
 

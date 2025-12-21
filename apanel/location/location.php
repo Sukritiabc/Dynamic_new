@@ -51,7 +51,7 @@ $unstatus = ($locationRow->location_type == 0) ? "checked" : " "; ?>
              <div class="form-row">
                 <div class="form-label col-md-2">
                     <label for="">
-                    Contact Info  :
+                    Landline Info  :
                     </label>
                 </div>
                 <div class="form-input col-md-20">
@@ -62,7 +62,7 @@ $unstatus = ($locationRow->location_type == 0) ? "checked" : " "; ?>
             <div class="form-row">
                 <div class="form-label col-md-2">
                     <label for="">
-                        Landline Info :
+                        Contact Info :
                     </label>
                 </div>
                 <div class="form-input col-md-20">

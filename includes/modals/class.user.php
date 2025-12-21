@@ -55,10 +55,10 @@ class User extends DatabaseObject
         $result_array = self::find_by_sql("SELECT `id`,`email`,`first_name`,`middle_name`,`last_name` FROM " . self::$table_name . " WHERE `email`='" . $email . "' LIMIT 1");
         return !empty($result_array) ? array_shift($result_array) : false;
     }
-    public static function find_by_user($UserName = "")
+    public static function find_by_user($username = "")
     {
         global $db;
-        $result_array = self::find_by_sql("SELECT `id`,`first_name`,`middle_name`,`last_name` FROM " . self::$table_name . " WHERE `username`='" . $UserName . "' LIMIT 1");
+        $result_array = self::find_by_sql("SELECT `id`,`first_name`,`middle_name`,`last_name` FROM " . self::$table_name . " WHERE `username`='" . $username . "' LIMIT 1");
         return !empty($result_array) ? array_shift($result_array) : false;
     }
 
@@ -71,10 +71,10 @@ class User extends DatabaseObject
         $result = $db->num_rows($record);
         return $result;
     }
-      public static function get_username($UserName = "")
+      public static function get_username($username = "")
     {
         global $db;
-        $query = " SELECT `username` FROM " . self::$table_name . " WHERE `username`='" . $UserName . "' ";
+        $query = " SELECT `username` FROM " . self::$table_name . " WHERE `username`='" . $username . "' ";
         $record = $db->query($query);
         $result = $db->num_rows($record);
         return $result;

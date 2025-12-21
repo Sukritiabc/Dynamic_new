@@ -177,7 +177,7 @@ $notupcoming = ($PrefeRow->upcoming == 0) ? "checked" : " ";
             </div>
 
             <!--logo image 2-->
-             <div class="form-row">
+             <div class="form-row hide">
                 <div class="form-label col-md-2">
                     <label for="">
                         Logo Image 2 :
@@ -521,7 +521,7 @@ $notupcoming = ($PrefeRow->upcoming == 0) ? "checked" : " ";
                 <div id="preview_Image9"></div>
             </div>
 
-            <div class="form-row">
+            <div class="form-row hide">
                 <div class="form-label col-md-2">
                     <label for="">
                         Facebook Messenger Code :
@@ -545,7 +545,7 @@ $notupcoming = ($PrefeRow->upcoming == 0) ? "checked" : " ";
                 </div>
             </div>
 
-            <div class="form-row">
+            <div class="form-row hide">
                 <div class="form-label col-md-2">
                     <label for="">
                         Facebook Pixel Code :
@@ -557,7 +557,7 @@ $notupcoming = ($PrefeRow->upcoming == 0) ? "checked" : " ";
                 </div>
             </div>
 
-            <div class="form-row">
+            <div class="form-row hide">
                 <div class="form-label col-md-2">
                     <label for="">
                         Google Analytics Link :
@@ -572,7 +572,7 @@ $notupcoming = ($PrefeRow->upcoming == 0) ? "checked" : " ";
                 </div>
             </div>
 
-            <div class="form-row">
+            <div class="form-row hide">
                 <div class="form-label col-md-2">
                     <label for="">
                         Schema.org Code :

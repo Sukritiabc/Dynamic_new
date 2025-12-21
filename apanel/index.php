@@ -135,44 +135,66 @@ if($actionpaeg==='true'){
                         </div>
                     </div>                    
                 </form>
-                <!-- For forget Password  -->
-                <form action="" name="forget-frm" id="forget-frm" class="col-md-3 center-margin form-vertical mrg25T" method="post">
+              <!-- For forget Password -->
+                <form action="" name="forget-frm" id="forget-frm"
+                    class="col-md-3 center-margin form-vertical mrg25T"
+                    method="post">
+
                     <div class="ui-dialog mrg5T hide" id="login-forgot" style="position: relative !important;">
+
                         <div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix">
                             <span class="ui-dialog-title">Recover password</span>
-                            <a href="#" class="switch-button" style="float:right;" switch-target="#login-form" switch-parent="#login-forgot" title="Recover password">
+                            <a href="#" class="switch-button" style="float:right;"
+                            switch-target="#login-form"
+                            switch-parent="#login-forgot"
+                            title="Recover password">
                                 <i class="glyph-icon icon-clock-os"></i>
                             </a>
                         </div>
+
                         <div class="pad20A ui-dialog-content ui-widget-content">
-                            <div class="infobox clearfix infobox-close-wrapper  error-bg mrg20B" style="display:none;">
-                                <a href="javascript:void(0);" title="Close Message" class="glyph-icon infobox-close icon-remove"></a>
+
+                            <div class="infobox clearfix infobox-close-wrapper error-bg mrg20B" style="display:none;">
+                                <a href="javascript:void(0);" title="Close Message"
+                                class="glyph-icon infobox-close icon-remove"></a>
                                 <p class="display_message"></p>
                             </div>
+
                             <div class="form-row">
-                                <div class="form-label col-md-2">
-                                    <label for="">
-                                        Email address:
-                                    </label>
+                                <div class="form-label col-md-3">
+                                    <label>Username:</label>
                                 </div>
-                                <div class="form-input col-md-10">
+
+                                <div class="form-input col-md-9">
                                     <div class="form-input-icon">
-                                        <i class="glyph-icon icon-envelope-o ui-state-default"></i>
-                                        <input placeholder="Email address" type="text" name="mailaddress" id="mailaddress" class="validate[required,custom[email]]">
+                                        <i class="glyph-icon icon-user ui-state-default"></i>
+                                        <input
+                                            type="text"
+                                            name="username"
+                                            id="username"
+                                            placeholder="Enter your username"
+                                            class="validate[required]"
+                                        >
                                     </div>
                                 </div>
                             </div>
+
                             <div class="form-row"></div>
+
                         </div>
+
                         <div class="ui-dialog-buttonpane text-center">
-                            <button type="submit" name="submit" class="btn large primary-bg radius-all-4 btn-forget" id="submit">
+                            <button type="submit"
+                                    class="btn large primary-bg radius-all-4 btn-forget">
                                 <span class="button-content">
                                     Recover Password
                                 </span>
-                            </button>                            
+                            </button>
                         </div>
+
                     </div>
                 </form>
+
             </div>
 
         </div>

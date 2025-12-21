@@ -114,6 +114,7 @@ $footer = '
                             <h3>Contact us</h3>
                             '. $siteRegulars->fiscal_address .'
                             <div class="phone"><a>'.$tellinked.'</a></div>
+                              <div class="phone"><a>'.$mob_txt.'</a></div>
                             
                             <div class="mail"><a>'.$emailinked.'</a></div>
                             <p><a href="#" target="_blank">View Google Map</a></p>

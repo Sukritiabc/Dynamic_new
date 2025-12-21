@@ -11,6 +11,17 @@ if (defined('CONTACT_PAGE')) {
 $maintell='';
 
     $tellinked = '';
+    $emailinked = '';
+    $emails = explode(",", $siteRegulars->email_address);
+    $lastEmail = array_shift($emails);
+    $emailinked .= '<a href="mailto:' . $lastEmail . '" target="_blank" rel="noreferrer">' . $lastEmail . '</a>';
+    foreach ($emails as $email) {
+        
+        $emailinked .= ',<a href="mailto:' . $email . '" target="_blank" rel="noreferrer">' . $email . '</a>';
+        if(end($emails)!= $email){
+        $emailinked .= ',';
+        }   
+}
     $telno = explode(",", $siteRegulars->contact_info);
     $lastElement = array_shift($telno);
     $phonelink='<a href="tel:' . $lastElement . '" target="_blank" rel="noreferrer" class="whatsapp">
@@ -119,6 +130,26 @@ $nearbydetail='';
                                     <div class="contents">
                                        <div class="btnx">
                                          '.$phonelink.'
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-12 mb-25 mx-auto">
+                            <div class="item">
+                                <div class="front">
+                                    <div class="contents"> <span class="fa fa-envelope-o"></span>
+                                        <h2 class="title">Our Email</h2>
+                                      <p>'. $siteRegulars->email_address .'</p>
+                                    </div>
+                                </div>
+                                <div class="back"> <img class="img img-fluid" src="template\web\img\contact2.jpg">
+                                    <div class="contents">
+                                        <div class="btnx">
+                                         <a href="mailto:<?php echo $emailinked; ?>" data-email="<?php echo $emailinked; ?>">
+                                            mail to us
+                                        </a>
+
                                         </div>
                                     </div>
                                 </div>

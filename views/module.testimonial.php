@@ -76,22 +76,50 @@ if (defined('HOME_PAGE')) {
                             <div class="col-md-7 text-center">
                                 <div class="owl-carousel owl-theme">';
                     
-                    foreach ($tstRec as $tstRow) {
-                        $rate = str_repeat('<i class="star-rating"></i>', $tstRow->rating);
-                        $imagePath = IMAGE_PATH . 'testimonial/' . $tstRow->image;
+                   foreach ($tstRec as $tstRow) {
 
-                        $tstHtitle .= '
-                                    <div class="item">
-                                        <img src="' . $imagePath . '" class="testmonial-img" alt="testimonial_image">
-                                        <span>' . $rate . '</span>
-                                        <h5>' . strip_tags($tstRow->content) . '</h5>
-                                        <div class="info">
-                                            <div class="cont">
-                                                <h6>' . $tstRow->name . ' <i>|</i> <span><a href="' . $tstRow->linksrc . '" target="_blank" rel="noopener">View on Tripadvisor</a></span></h6>
-                                            </div>
-                                        </div>
-                                    </div>';
+                    $rate = str_repeat('<i class="star-rating"></i>', (int)$tstRow->rating);
+
+                    // ✅ Static fallback image (ALWAYS exists)
+                    $defaultImg = BASE_URL . 'images/testimonial/IZLof-Booking.png';
+
+                    // Start with static image
+                    $imagePath = $defaultImg;
+
+                    // If testimonial image exists in DB
+                    if (!empty($tstRow->image)) {
+
+                        // Filesystem path (for checking existence)
+                        $filePath = SITE_ROOT . 'images/testimonial/' . $tstRow->image;
+
+                        // Public URL path
+                        $publicPath = IMAGE_PATH . 'testimonial/' . $tstRow->image;
+
+                        // Use DB image ONLY if file exists
+                        if (file_exists($filePath)) {
+                            $imagePath = $publicPath;
+                        }
                     }
+
+                    $tstHtitle .= '
+                        <div class="item">
+                            <img src="' . $imagePath . '" class="testmonial-img" alt="testimonial_image">
+                            <span>' . $rate . '</span>
+                            <h5>' . strip_tags($tstRow->content) . '</h5>
+                            <div class="info">
+                                <div class="cont">
+                                    <h6>' . $tstRow->name . ' <i>|</i>
+                                        <span>
+                                            <a href="' . $tstRow->linksrc . '" target="_blank" rel="noopener">
+                                                View on Tripadvisor
+                                            </a>
+                                        </span>
+                                    </h6>
+                                </div>
+                            </div>
+                        </div>';
+                }
+
 
                     $tstHtitle .= '
                                 </div>

@@ -642,7 +642,7 @@ if (defined('SUBPACKAGE_PAGE') and isset($_REQUEST['slug'])) {
                     foreach ($ftRec as $k => $v) {
                         if (empty($v[1]))
                             continue;
-                        $feattitle = !empty($v[0][0]) ? $v[0][0] : 'Amenities';
+                        $feattitle = !empty($v[0][0]) ? $v[0][0] : $fparent;
 
                         $resubpkgDetail .= '<h5>' . $feattitle . '</h5>';
                         $resubpkgDetail .= '<ul class="list">';
@@ -779,7 +779,7 @@ if (defined('SUBPACKAGE_PAGE') and isset($_REQUEST['slug'])) {
                     foreach ($ftRec as $k => $v) {
                         if (empty($v[1]))
                             continue;
-                        $feattitle = !empty($v[0][0]) ? $v[0][0] : 'Amenities';
+                        $feattitle = !empty($v[0][0]) ? $v[0][0] :$fparent;
 
                         $resubpkgDetail .= '<h5>' . $feattitle . '</h5>';
                         $resubpkgDetail .= '<ul class="list">';
@@ -808,32 +808,51 @@ if (defined('SUBPACKAGE_PAGE') and isset($_REQUEST['slug'])) {
                 }
             }
 
-            $resubpkgDetail .= '
-                            </div>
-                        </div>
-                         <table class="table table-bordered border border-danger mb-30" style="box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;">
-                        <thead>
-                            <tr>
-                                <th scope="col">Hall Name</th>
-                                <th scope="col"><img src="template/web/img/icon/area.png">Hall Size</th>
-                                <th scope="col"><img src="template/web/img/icon/u-shaped.png">U Shape</th>
-                                <th scope="col"><img src="template/web/img/icon/class.png">Classroom</th>
-                                <th scope="col"><img src="template/web/img/icon/seats-map.png">Theatre</th>
-                                <th scope="col"><img src="img/icon/round-table.png">Round Table</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th scope="row">'.$subpkgRec->title.'</th>
-                                <td>'.$subpkgRec->size.'</td>
-                                <td>'.$subpkgRec->shape.'</td>
-                                <td>'.$subpkgRec->class_room_style.'</td>
-                                <td>'.$subpkgRec->theatre_style.'</td>
-                                <td>'.$subpkgRec->round_table.'</td>
-                            </tr>
-                         <tbody>
-                         </table>
+           $columns = [
+                'Hall Name' => $subpkgRec->title,
+                '<img src="template/web/img/icon/area.png">Hall Size' => $subpkgRec->size,
+                '<img src="template/web/img/icon/u-shaped.png">U Shape' => $subpkgRec->shape,
+                '<img src="template/web/img/icon/class.png">Classroom' => $subpkgRec->class_room_style,
+                '<img src="template/web/img/icon/seats-map.png">Theatre' => $subpkgRec->theatre_style,
+                '<img src="template/web/img/icon/round-table.png">Round Table' => $subpkgRec->round_table,
+            ];
 
+            // remove empty columns
+            $columns = array_filter($columns, function ($v) {
+                return !empty($v);
+            });
+
+            $resubpkgDetail .= '
+            </div>
+            </div>
+
+            <table class="table table-bordered border border-danger mb-30"
+                style="box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;">
+            <thead>
+            <tr>';
+
+            foreach (array_keys($columns) as $header) {
+                $resubpkgDetail .= '<th scope="col">' . $header . '</th>';
+            }
+
+            $resubpkgDetail .= '
+            </tr>
+            </thead>
+            <tbody>
+            <tr>';
+
+            foreach ($columns as $value) {
+                $resubpkgDetail .= '<td>' . $value . '</td>';
+            }
+
+            $resubpkgDetail .= '
+            </tr>
+            </tbody>
+            </table>';
+
+            /* ================= CTA ================= */
+            $resubpkgDetail .= '
+            </div> <!-- END FIRST ROW -->
                     </div> <!-- END FIRST ROW -->
                     <div class="col-md-12 text-center">
                             <div class="design-hall">
