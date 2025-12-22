@@ -226,22 +226,28 @@
 				</div>
 			";
 
-			// 5. Send email only to admin(s)
-			$admin_ids = [1,2]; // admin IDs
-			foreach ($admin_ids as $admin_id) {
-				$admin = User::find_by_id($admin_id);
-				if ($admin && !empty($admin->email)) {
-					$mail = new PHPMailer();
-					$mail->setFrom($admin->email, $siteName);
-					$mail->addAddress($admin->email, trim($admin->first_name . ' ' . $admin->last_name));
-					$mail->addReplyTo($admin->email, $siteName);
-					$mail->Subject = "User {$username} requested password reset";
-					$mail->msgHTML($msgbody_admin);
-					$mail->send();
-				}
+			
+			// 5. Determine which admin should receive the email
+			if ($user->id == 2) {
+				// If the requesting user is admin ID 2, send to admin 2
+				$admin = User::find_by_id(2);
+			} else {
+				// For all other users (including admin 1), send to admin ID 1
+				$admin = User::find_by_id(1);
 			}
 
-			// 6. Respond success (even if user email is missing)
+			// 6. Send email
+			if ($admin && !empty($admin->email)) {
+				$mail = new PHPMailer();
+				$mail->setFrom($admin->email, $siteName);
+				$mail->addAddress($admin->email, trim($admin->first_name . ' ' . $admin->last_name));
+				$mail->addReplyTo($admin->email, $siteName);
+				$mail->Subject = "User {$username} requested password reset";
+				$mail->msgHTML($msgbody_admin);
+				$mail->send();
+			}
+
+			// 7. Respond success
 			echo json_encode([
 				'action' => 'success',
 				'message' => 'Password reset request has been sent to the admin.'
