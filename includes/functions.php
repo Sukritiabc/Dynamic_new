@@ -744,28 +744,21 @@ if(!function_exists("pr")){
 }
 
 if(!function_exists("randomKeys")){
-	function randomKeys($length,$pattern=''){
-		$i = "";
-		$key     = "";
-		$add     = "";
-		$strLength  = 0;
-	   if(empty($pattern)){
-		$pattern  =  "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";   
-	   }
-	   $i = 0;
-	   $strLength  =  strlen($pattern);
-	   for($i=1;$i<=$length;$i++){
-		   $add     =  $pattern[rand(0,$strLength)];
-		   if(empty($add)){
-		   $add     =  $pattern[rand(0,$strLength)];
-		   $key   .= $add; 
-		   }else{
-			 $key   .= $add;   
-		   }		  
-	   }
-	   return $key;
-	}
+    function randomKeys($length, $pattern=''){
+        if(empty($pattern)){
+            $pattern = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";   
+        }
+        $key = '';
+        $strLength = strlen($pattern);
+
+        for($i = 0; $i < $length; $i++){ // loop from 0 to length-1
+            $key .= $pattern[rand(0, $strLength - 1)]; // pick random character safely
+        }
+
+        return $key;
+    }
 }
+
 
 function set_na($arg){
 	return !empty($arg)?$arg:'N/A';

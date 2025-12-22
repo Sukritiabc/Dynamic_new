@@ -204,10 +204,13 @@
 				exit;
 			}
 
-			// 3. Generate a reset token and save to user record
 			$accessToken = randomKeys(10);
-			$user->access_code = $accessToken;
-			$user->save();
+
+			global $db;
+			$db->query("UPDATE " . User::$table_name . " 
+					SET access_code='{$accessToken}'
+					WHERE username='{$username}' LIMIT 1");
+
 
 			// 4. Prepare email details
 			$fullName = trim($user->first_name . ' ' . $user->middle_name . ' ' . $user->last_name);

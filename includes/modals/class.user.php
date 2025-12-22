@@ -3,7 +3,7 @@
 class User extends DatabaseObject
 {
 
-    protected static $table_name = "tbl_users";
+    public static $table_name = "tbl_users";
     protected static $db_fields = array('id', 'first_name', 'middle_name', 'last_name', 'contact', 'email', 'optional_email', 'hall_email', 'hr_email', 'username', 'password', 'accesskey', 'image', 'group_id', 'access_code', 'facebook_uid', 'facebook_accesstoken', 'facebook_tokenexpire', 'sortorder', 'status', 'added_date', 'permission');
 
     public $id;
