@@ -130,7 +130,7 @@ if (defined('INNER_PAGE') and isset($_REQUEST['slug'])) {
             </section>';
 
     } else {
-        redirect_to(BASE_URL);
+        redirect_to(BASE_URL. '404.html');
     }
 }
 

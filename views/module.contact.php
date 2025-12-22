@@ -192,7 +192,7 @@ $nearbydetail='';
                                         <textarea name="message" id="message" cols="30" rows="4" placeholder="Message"></textarea>
                                     </div>
                                      <div class="col-sm-12" style="margin: 10px 0px;">
-                                        <div id="g-recaptcha-response" class="g-recaptcha" data-sitekey="6Lf1CysqAAAAAIgmN0_09HdspdNsgi6359cuvp4j"></div>
+                                        <div id="g-recaptcha-response" class="g-recaptcha" data-sitekey="6LfrcTIsAAAAAA_uP9xfSx7uitTLEqxmnZDYIER_"></div>
                                     </div>
                                     <div id="result_msg"></div>
                                     <div class="col-md-12">

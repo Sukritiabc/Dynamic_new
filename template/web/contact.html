@@ -79,12 +79,12 @@
                         message: {required: "Please enter your Message."}
                     },
                     submitHandler: function (form) {
-                        /*var recaptcha = $("#g-recaptcha-response").val();
+                        var recaptcha = $("#g-recaptcha-response").val();
                     if (recaptcha === "") {
                         event.preventDefault();
                         alert("Please check the recaptcha");
                         return false;
-                    }*/
+                    }
                         var Frmval = $("form#contactform").serialize();
                         $("button#submit").attr("disabled", "true").text('Processing...');
                         $.ajax({
